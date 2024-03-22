@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MAC2IPv6/1.0.0": {
+        "runtime": {
+          "MAC2IPv6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MAC2IPv6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
