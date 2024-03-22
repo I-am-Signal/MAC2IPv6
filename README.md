@@ -19,7 +19,7 @@ A simple conversion script you can run from the command line that converts a MAC
 ```
 > MAC2IPv6 112233445566
 > [MAC Address to IPv6 Address]
-> MAC Address: 112233445566
-> IPv6 Address: fe80::1322:33ff:fe44:5566
+>  MAC Address: 112233445566
+>  IPv6 Address: fe80::1322:33ff:fe44:5566
 
 ```
