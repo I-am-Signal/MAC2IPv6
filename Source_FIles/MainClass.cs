@@ -4,7 +4,6 @@
  *  Written by Dylan Carder
  *  March 22nd, 2024
  *  Idea suggested by Jake B at Kennesaw State University
- *  https://discord.com/channels/730029345954988082/1140806104402640917/1220599398204047420
  *  MainClass.cs
 */
 
@@ -45,11 +44,13 @@ namespace ConvertMACToIPv6
             {
                 Console.WriteLine(args[0]);
                 CheckThenConvert(args[0]);
-                return;
             }
 
             // using the command line menu
-            CheckThenConvert(Console.ReadLine());
+            else CheckThenConvert(Console.ReadLine());
+
+            Console.WriteLine("Press any key to continue.");
+            Console.ReadKey();
         }
     }
 }

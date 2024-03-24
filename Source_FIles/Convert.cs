@@ -3,8 +3,7 @@
  *  Command line conversion script to convert a MAC address to an IPv6 address
  *  Written by Dylan Carder
  *  March 22nd, 2024
- *  Idea suggested by Jake B at Kennesaw State University
- *  https://discord.com/channels/730029345954988082/1140806104402640917/1220599398204047420
+ *  Idea suggested by Jake B at Kennesaw State University:
  *  Convert.cs
 */
 
